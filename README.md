@@ -1,5 +1,5 @@
 <div style="width: 100%; overflow: hidden;">
-  <img src="https://github.com/thetushaar/LoginPages/blob/main/dark.jpg?raw=true" style="width: 100%; height: 25em;">
+  <img src="https://github.com/thetushaar/LoginPages/blob/main/dark.jpg?raw=true" style="width: 100%; height: 11em;">
 </div>
 
 
