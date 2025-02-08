@@ -58,7 +58,7 @@
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/VSS.png" alt="Adobe AE" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Window11.png" alt="Adobe AE" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Word.png" alt="Adobe AE" width="50px"/>
-
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/YT.png" alt="Adobe AE" width="50px"/>
     
   </div>
 </p>
