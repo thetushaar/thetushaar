@@ -14,60 +14,61 @@
 <p align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <!-- Each Image represents a skill/tech stack badge -->
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Adobe.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/AE.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/AI.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Android.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/AndroidStudio.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Binance.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Blender.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Canva.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/CC.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/ChatGpt.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Codepen.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Copilot.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/CMD.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/CSS.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/DavinciResolve.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Drive.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Excel.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Facebook.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Figma.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Firebase.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Fiver.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Freebik.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Git.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Github.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/GoogleAds.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/GoogleForm.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/HTML.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Instagram.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Java.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/JS.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Linkedin.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/LR.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Microsoft.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Nodejs.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Netlify.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/OneDrive.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/PDF.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Powerpoint.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Printerest.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/PS.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/PS5.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/React.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Steam.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Teams.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Telegram.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Vercel.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/VS.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/VSS.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Window11.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Word.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Wordpress.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Wix.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Xbox.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/YT.png" alt="Adobe AE" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Adobe.png" alt="Adobe" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/AE.png" alt="Adobe After Effects" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/AI.png" alt="Adobe Illustrator" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Android.png" alt="Android" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/AndroidStudio.png" alt="Android Studio" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Binance.png" alt="Binance" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Blender.png" alt="Blender" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Canva.png" alt="Canva" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/CC.png" alt="Creative Cloud" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/ChatGpt.png" alt="ChatGPT" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Codepen.png" alt="CodePen" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Copilot.png" alt="GitHub Copilot" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/CMD.png" alt="Command Prompt" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/CSS.png" alt="CSS" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/DavinciResolve.png" alt="DaVinci Resolve" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Drive.png" alt="Google Drive" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Excel.png" alt="Microsoft Excel" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Facebook.png" alt="Facebook" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Figma.png" alt="Figma" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Firebase.png" alt="Firebase" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Fiver.png" alt="Fiverr" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Freebik.png" alt="Freepik" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Git.png" alt="Git" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Github.png" alt="GitHub" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/GoogleAds.png" alt="Google Ads" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/GoogleForm.png" alt="Google Forms" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/HTML.png" alt="HTML5" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Instagram.png" alt="Instagram" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Java.png" alt="Java" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/JS.png" alt="JavaScript" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Linkedin.png" alt="LinkedIn" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/LR.png" alt="Lightroom" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Microsoft.png" alt="Microsoft" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Nodejs.png" alt="Node.js" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Netlify.png" alt="Netlify" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/OneDrive.png" alt="OneDrive" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/PDF.png" alt="PDF" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Powerpoint.png" alt="Microsoft PowerPoint" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Printerest.png" alt="Pinterest" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/PS.png" alt="Photoshop" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/PS5.png" alt="PlayStation 5" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/React.png" alt="React" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Steam.png" alt="Steam" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Teams.png" alt="Microsoft Teams" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Telegram.png" alt="Telegram" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Vercel.png" alt="Vercel" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/VS.png" alt="Visual Studio" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/VSS.png" alt="Visual Studio Code" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Window11.png" alt="Windows 11" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Word.png" alt="Microsoft Word" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Wordpress.png" alt="WordPress" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Wix.png" alt="Wix" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Xbox.png" alt="Xbox" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/YT.png" alt="YouTube" width="50px"/>
+
     
   </div>
 </p>
