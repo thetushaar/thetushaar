@@ -1,4 +1,4 @@
-<!-- Banner Image -->
+
 <div style="width: 100%; overflow: hidden;">
   <img src="https://github.com/thetushaar/LoginPages/blob/main/dark.jpg?raw=true" style="width: 100%; height: 11em;" alt="Banner Image">
 </div>
@@ -58,11 +58,13 @@
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Steam.png" alt="Adobe AE" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Teams.png" alt="Adobe AE" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Telegram.png" alt="Adobe AE" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Vercel.png" alt="Adobe AE" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/VS.png" alt="Adobe AE" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/VSS.png" alt="Adobe AE" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Window11.png" alt="Adobe AE" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Word.png" alt="Adobe AE" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Wordpress.png" alt="Adobe AE" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Wix.png" alt="Adobe AE" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/YT.png" alt="Adobe AE" width="50px"/>
     
   </div>
