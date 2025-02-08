@@ -54,6 +54,7 @@
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Powerpoint.png" alt="Adobe AE" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Printerest.png" alt="Adobe AE" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/PS.png" alt="Adobe AE" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/PS5.png" alt="Adobe AE" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/React.png" alt="Adobe AE" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Steam.png" alt="Adobe AE" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Teams.png" alt="Adobe AE" width="50px"/>
@@ -65,6 +66,7 @@
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Word.png" alt="Adobe AE" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Wordpress.png" alt="Adobe AE" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Wix.png" alt="Adobe AE" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Xbox.png" alt="Adobe AE" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/YT.png" alt="Adobe AE" width="50px"/>
     
   </div>
