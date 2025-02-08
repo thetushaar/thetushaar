@@ -20,6 +20,7 @@
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Android.png" alt="Adobe AE" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/AndroidStudio.png" alt="Adobe AE" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Binance.png" alt="Adobe AE" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Blender.png" alt="Adobe AE" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Canva.png" alt="Adobe AE" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/CC.png" alt="Adobe AE" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/ChatGpt.png" alt="Adobe AE" width="50px"/>
@@ -47,6 +48,7 @@
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/LR.png" alt="Adobe AE" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Microsoft.png" alt="Adobe AE" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Nodejs.png" alt="Adobe AE" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Netlify.png" alt="Adobe AE" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/OneDrive.png" alt="Adobe AE" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/PDF.png" alt="Adobe AE" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Powerpoint.png" alt="Adobe AE" width="50px"/>
