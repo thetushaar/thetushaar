@@ -22,8 +22,9 @@
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Binance.png" alt="Adobe AE" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Canva.png" alt="Adobe AE" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/ChatGpt.png" alt="Adobe AE" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/CMD.png" alt="Adobe AE" width="50px" style="background-color: white; padding: 5px;"/>
-
+<div style="background-color: white; display: inline-block; padding: 5px;">
+  <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/CMD.png" alt="Adobe AE" width="50px"/>
+</div>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/CSS.png" alt="Adobe AE" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/DavinciResolve.png" alt="Adobe AE" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Drive.png" alt="Adobe AE" width="50px"/>
