@@ -115,7 +115,7 @@
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="GitHub Stats">
 
 <!-- Profile Counter -->
-<img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" alt="Profile Counter" /> <br> <br> <br>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Counter.png" alt="Profile Counter"  width="200px" /> <br> <br> <br>
 
 <!-- Kyubey GIF -->
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" alt="Kyubey GIF" />
