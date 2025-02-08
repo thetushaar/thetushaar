@@ -74,13 +74,41 @@
 </p>
 
 <!-- GitHub Contribution Snake Animation -->
-<!-- GitHub Contribution Snake Animation (Full Width) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
   <!-- Make the image fill the full width of the page -->
   <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg" style="width: 100%; height: auto;">
 </picture>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!-- GitHub Stats -->
