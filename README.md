@@ -56,6 +56,7 @@
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Meta.png" alt="Meta" width="50px"/>    
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Nodejs.png" alt="Node.js" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Netlify.png" alt="Netlify" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Netflix.png" alt="Netflix" width="50px"/>    
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/OneDrive.png" alt="OneDrive" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/PDF.png" alt="PDF" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Perplexity.png" alt="Perplexity" width="50px"/>    
@@ -64,6 +65,7 @@
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/PS.png" alt="Photoshop" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/PS5.png" alt="PlayStation 5" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/React.png" alt="React" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Soundcloud.png" alt="Soundcloud" width="50px"/>    
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Spotify.png" alt="Spotify" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/SpyderMonkey.png" alt="SpyderMonkey" width="50px"/>    
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Steam.png" alt="Steam" width="50px"/>
