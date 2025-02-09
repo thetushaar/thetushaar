@@ -2,7 +2,8 @@
 <div style="width: 100%; overflow: hidden;">
   <img src="https://github.com/thetushaar/LoginPages/blob/main/dark.jpg?raw=true" style="width: 100%; height: 11em;" alt="Banner Image">
 </div>
-
+<!-- Animated Penguin Emoji -->
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin Emoji" width="15%" style="max-width: 100%;">
 <!-- Typing Animation (SVG) -->
 <p align="center">
   <a href="https://git.io/typing-svg" style="display: flex; justify-content: center; align-items: center;">
@@ -10,8 +11,15 @@
   </a>
 </p>
 
+
+<!-- Kyubey GIF -->
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" alt="Kyubey GIF" />
+
+
+
 <!-- Badge Section (Tech Stack/Skills) -->
 <p align="center">
+  
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <!-- Each Image represents a skill/tech stack badge -->
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Adobe.png" alt="Adobe" width="50px"/>
@@ -86,10 +94,20 @@
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Wix.png" alt="Wix" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Xbox.png" alt="Xbox" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/YT.png" alt="YouTube" width="50px"/>
-
-    
   </div>
 </p>
+
+<!-- Animated Code GIF -->
+<img src="https://github.com/demartini/demartini/blob/master/code.gif" style="width: 100%; height: 10em; border-radius: 50%;" alt="Animated Code GIF">
+
+
+
+
+
+
+
+
+
 
 <!-- GitHub Contribution Snake Animation -->
 <picture>
@@ -97,6 +115,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
   <!-- Make the image fill the full width of the page -->
   <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg" style="width: 100%; height: auto;">
+  
 </picture>
 
 
@@ -136,12 +155,8 @@
 <!-- Profile Counter -->
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Counter.png" alt="Profile Counter"  width="200px" /> <br> <br> <br>
 
-<!-- Kyubey GIF -->
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" alt="Kyubey GIF" />
 
-<!-- Animated Code GIF -->
-<img src="https://github.com/demartini/demartini/blob/master/code.gif" style="width: 100%; height: 10em; border-radius: 50%;" alt="Animated Code GIF">
 
-<!-- Animated Penguin Emoji -->
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin Emoji" width="15%" style="max-width: 100%;">
+
+
 </p>
