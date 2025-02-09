@@ -21,6 +21,7 @@
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/AndroidStudio.png" alt="Android Studio" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Binance.png" alt="Binance" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Blender.png" alt="Blender" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Brave.png" alt="Brave" width="50px"/>    
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Canva.png" alt="Canva" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/CC.png" alt="Creative Cloud" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/ChatGpt.png" alt="ChatGPT" width="50px"/>
@@ -41,6 +42,7 @@
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Gemini.png" alt="Gemini" width="50px"/>    
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Git.png" alt="Git" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Github.png" alt="GitHub" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/G4G.png" alt="GeeksforGeeks" width="50px"/>    
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Gmail.png" alt="Gmail" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/GoogleAds.png" alt="Google Ads" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/GoogleForm.png" alt="Google Forms" width="50px"/>
@@ -51,6 +53,7 @@
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Linkedin.png" alt="LinkedIn" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/LR.png" alt="Lightroom" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Microsoft.png" alt="Microsoft" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Meta.png" alt="Meta" width="50px"/>    
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Nodejs.png" alt="Node.js" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Netlify.png" alt="Netlify" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/OneDrive.png" alt="OneDrive" width="50px"/>
