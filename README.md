@@ -123,7 +123,8 @@
 
 
 <!-- GitHub Stats -->
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="GitHub Stats">
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="GitHub Stats" style="pointer-events: none;">
+
 
 <!-- Profile Counter -->
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Counter.png" alt="Profile Counter"  width="200px" /> <br> <br> <br>
