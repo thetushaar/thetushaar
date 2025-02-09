@@ -55,6 +55,7 @@
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Netlify.png" alt="Netlify" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/OneDrive.png" alt="OneDrive" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/PDF.png" alt="PDF" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Perplexity.png" alt="Perplexity" width="50px"/>    
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Powerpoint.png" alt="Microsoft PowerPoint" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Printerest.png" alt="Pinterest" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/PS.png" alt="Photoshop" width="50px"/>
