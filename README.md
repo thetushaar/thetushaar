@@ -42,6 +42,7 @@
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Gemini.png" alt="Gemini" width="50px"/>    
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Git.png" alt="Git" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Github.png" alt="GitHub" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/GoDaddy.png" alt="GoDaddy" width="50px"/>    
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/G4G.png" alt="GeeksforGeeks" width="50px"/>    
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Gmail.png" alt="Gmail" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/GoogleAds.png" alt="Google Ads" width="50px"/>
