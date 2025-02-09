@@ -2,8 +2,7 @@
 <div style="width: 100%; overflow: hidden;">
   <img src="https://github.com/thetushaar/LoginPages/blob/main/dark.jpg?raw=true" style="width: 100%; height: 11em;" alt="Banner Image">
 </div>
-<!-- Animated Penguin Emoji -->
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin Emoji" width="15%" style="max-width: 100%;">
+
 <!-- Typing Animation (SVG) -->
 <p align="center">
   <a href="https://git.io/typing-svg" style="display: flex; justify-content: center; align-items: center;">
@@ -97,8 +96,14 @@
   </div>
 </p>
 
-<!-- Animated Code GIF -->
-<img src="https://github.com/demartini/demartini/blob/master/code.gif" style="width: 100%; height: 10em; border-radius: 50%;" alt="Animated Code GIF">
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+   <img src="https://github.com/demartini/demartini/blob/master/code.gif" style="width: 100%; height: 13em; border-radius: 50%;" alt="Animated Code GIF">
+   <img src="https://streak-stats.demolab.com?user=thetushaar&theme=dark&hide_border=true" alt="GitHub Stats">
+  <!-- Animated Penguin Emoji -->
+  <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin Emoji" width="21%" style="max-width: 100%;">
+</div>
+
+
 
 
 
