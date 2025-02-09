@@ -32,6 +32,7 @@
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/DavinciResolve.png" alt="DaVinci Resolve" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/DeepSeek.png" alt="DeepSeek" width="50px"/>    
 <img src="https://cdn.brandfetch.io/id-M_DDlES/w/192/h/192/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Dora" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Discord.png" alt="Discord" width="50px"/>    
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Drive.png" alt="Google Drive" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Dropbox.png" alt="Dropbox" width="50px"/>    
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Excel.png" alt="Microsoft Excel" width="50px"/>
