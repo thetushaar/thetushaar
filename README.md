@@ -67,6 +67,7 @@
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/PS.png" alt="Photoshop" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/PS5.png" alt="PlayStation 5" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/React.png" alt="React" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Reddit.png" alt="Reddit" width="50px"/>    
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Shopify.png" alt="Shopify" width="50px"/>    
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Soundcloud.png" alt="Soundcloud" width="50px"/>    
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Spotify.png" alt="Spotify" width="50px"/>
