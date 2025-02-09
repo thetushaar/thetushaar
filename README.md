@@ -34,7 +34,6 @@
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Drive.png" alt="Google Drive" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Dropbox.png" alt="Dropbox" width="50px"/>    
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Excel.png" alt="Microsoft Excel" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Facebook.png" alt="Facebook" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Figma.png" alt="Figma" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Firebase.png" alt="Firebase" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Fiver.png" alt="Fiverr" width="50px"/>
@@ -42,11 +41,12 @@
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Gemini.png" alt="Gemini" width="50px"/>    
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Git.png" alt="Git" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Github.png" alt="GitHub" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Gmail.png" alt="Gmail" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/GoogleAds.png" alt="Google Ads" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/GoogleForm.png" alt="Google Forms" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/HTML.png" alt="HTML5" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Instagram.png" alt="Instagram" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Java.png" alt="Java" width="50px"/>
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Jitter.png" alt="Jitter" width="50px"/>    
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/JS.png" alt="JavaScript" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Linkedin.png" alt="LinkedIn" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/LR.png" alt="Lightroom" width="50px"/>
@@ -62,7 +62,7 @@
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/PS5.png" alt="PlayStation 5" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/React.png" alt="React" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Spotify.png" alt="Spotify" width="50px"/>
-<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/SpderMonkey.png" alt="SpyderMonkey" width="50px"/>    
+<img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/SpyderMonkey.png" alt="SpyderMonkey" width="50px"/>    
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Steam.png" alt="Steam" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Teams.png" alt="Microsoft Teams" width="50px"/>
 <img src="https://github.com/thetushaar/LoginPages/blob/main/Icons/Telegram.png" alt="Telegram" width="50px"/>
